@@ -6,18 +6,20 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Documentos
-    url: /documentos
+  - name: Documents
+    url: /documents
     weight: 20
-  - name: Anuncios
-    url: /anuncios
+  - name: Announcements
+    url: /announcements
     weight: 30
   - name: Menu
-    weight: 40
+    weight: 50
     hasChildren: true
+  - name: Committees
+    url: /committees
+    weight: 40
   - parent: Menu
     name: Blog
     url: blog/
-  - parent: Menu
-    name: Comisiones
-    url: /comisiones
+
+   
