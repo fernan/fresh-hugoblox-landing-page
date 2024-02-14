@@ -60,6 +60,9 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
+  projects: '/comisiones/:slug'
+  publications: '/documentos/:slug'
+  events: '/anuncios/:slug/'
   post: '/blog/:slug/'
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
