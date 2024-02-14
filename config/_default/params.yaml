@@ -53,3 +53,10 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+
+# Decap CMS
+extensions:
+  decap_cms:
+    branch: main
+#     publish_mode: editorial_workflow
+#     local_backend: true

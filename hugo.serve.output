@@ -1,0 +1,29 @@
+fresh-hugoblox-landing-page> hugo serve -D -e production
+hugo: downloading modules …
+go: downloading github.com/HugoBlox/hugo-blox-builder v4.8.0+incompatible
+go: added github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.1
+hugo: collected modules in 11782 ms
+Watching for changes in C:\Users\fernan\AppData\Local\hugo_cache\modules\filecache\modules\pkg\mod\github.com\!hugo!blox\hugo-blox-builder\modules\{blox-plugin-netlify@v1.1.2-0.20231108143325-448ed0e3bd2b,blox-tailwind@v0.1.2-0.20240113174520-1975d0f568ff}
+Watching for changes in C:\Users\fernan\web\fresh-hugoblox-landing-page\{assets,content}
+Watching for config changes in C:\Users\fernan\web\fresh-hugoblox-landing-page\config\_default, C:\Users\fernan\AppData\Local\hugo_cache\modules\filecache\modules\pkg\mod\github.com\!hugo!blox\hugo-blox-builder\modules\blox-plugin-netlify@v1.1.2-0.20231108143325-448ed0e3bd2b\config.yaml, C:\Users\fernan\AppData\Local\hugo_cache\modules\filecache\modules\pkg\mod\github.com\!hugo!blox\hugo-blox-builder\modules\blox-tailwind@v0.1.2-0.20240113174520-1975d0f568ff\hugo.yaml, C:\Users\fernan\web\fresh-hugoblox-landing-page\go.mod
+Start building sites …
+hugo v0.119.0-b84644c008e0dc2c4b67bd69cccf87a41a03937e+extended windows/amd64 BuildDate=2023-09-24T15:20:17Z VendorInfo=gohugoio
+
+
+                   | EN
+-------------------+-----
+  Pages            | 33
+  Paginator pages  |  0
+  Non-page files   |  9
+  Static files     |  0
+  Processed images | 47
+  Aliases          |  7
+  Sitemaps         |  1
+  Cleaned          |  0
+
+Built in 2764 ms
+Environment: "production"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
